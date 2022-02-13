@@ -2,6 +2,8 @@
 Operate GitHub for the first time
 
 # Gitチュートリアル
+ - fix-B
+
 # Heading 1.
 ## Heading 2.
 ### Heading 3.
