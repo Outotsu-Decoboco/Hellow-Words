@@ -4,6 +4,7 @@ Operate GitHub for the first time
 # Gitチュートリアル
 - feature-A
 - fix-B
+- feature-C
 
 # Heading 1.
 ## Heading 2.
